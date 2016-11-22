@@ -49,6 +49,7 @@
 					    	}
 					    }
 
+					    //Beperking in het aantal rijen in Excel
 					    if($i <= 20)
 						{
 							foreach ($Reader as $row)
